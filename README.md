@@ -1,74 +1,88 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=transparent&color=00e1ff&height=300&section=header&text=KAPTAN%20KRRISH&fontSize=110&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20& DATA%20STRATEGIST&descSize=25&descAlignY=60" alt="Executive Header" />
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=gradient&customColorList=2,00e1ff,8b5cf6&height=300&section=header&text=KAPTAN%20KRRISH&fontSize=100&animation=fadeIn&fontAlignY=38&desc=APEX%20SYSTEMS%20ARCHITECT&descSize=25&descAlignY=65" alt="God Tier Header" />
 </div>
 
 <div align="center">
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaptankrrish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=kaptankrrish&theme=tokyonight&no-frame=true&margin-w=15&column=7" alt="Trophy Room" />
 </div>
 
 ---
 
-<### 💎 EXECUTIVE OVERVIEW
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3000&pause=1000&color=00E1FF&width=600&lines=Architecting+Intelligent+Ecosystems;Transforming+Data+into+Impact;Leading+Modern+Web+Strategy" alt="Typing SVG" />
-</p>
+<div align="center">
+  <h3>✨ THE ORACLE PROTOCOL ✨</h3>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=800&lines=INITIATING+COGNITIVE+MATRIX...;ORCHESTRATING+ENTERPRISE+SYSTEMS;SCALING+IMAGINATION+INTO+CODE;ABSOLUTE+DIGITAL+SUPREMACY" alt="God Typing" />
+  </p>
+</div>
 
-I architect high-performance digital architecture, blending specialized analytical frameworks with premium user-facing technology. My approach synchronizes technical logic and user experience to deliver maximum impact solutions.
-
-- 🏢 **Current Objective**: Engineering Next-Gen Distributed Frameworks & AI Agents.
-- 💼 **Strategic History**: Trusted execution at **Tata** & **MBH Pvt Ltd**.
-- 🎯 **Focus**: Cognitive UX, Deep Learning Integration, & Scalable Cloud Stacks.
-- 🌐 **Location**: Hyper-connected / Global delivery scope.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaptankrrish&label=PROFILE+ACCESSES&color=8b5cf6&style=flat-square" alt="Views" />
+</div>
 
 ---
 
-<### 📈 STRATEGIC PERFORMANCE METRICS
+### 🌌 DIMENSIONAL OVERVIEW
+I don't just write software; I materialize scalable realities. Blending deep machine intuition with absolute-performance interface mechanics to create undeniable digital value.
+
+- 🔮 **The Mission**: Engineering autonomous sentient code clusters.
+- ⚖️ **Legacy**: Proven deployment velocity across **Tata Global** & **MBH Enterprises**.
+- ⚛️ **Core**: High-entropy Algorithmic Strategy, Visual Quantum Engines, Neural Webs.
+- 🗝️ **Classification**: Apex Tier Operator.
+
+---
+
+### ⚡ ENERGY VIBRATION GRAPH (ACTIVITY)
 
 <div align="center">
-  <table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaptankrrish&bg_color=0d1117&color=8b5cf6&line=00e1ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+---
+
+### 🔋 SYSTEM CAPACITY & LOAD
+
+<div align="center">
+  <table border="0">
     <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptankrrish&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="200px" alt="Top Languages" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kaptankrrish&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="220px" alt="Global Stats" />
       </td>
-      <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaptankrrish&theme=tokyonight&hide_border=true&background=00000000" height="200px" alt="Streak Stats" />
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaptankrrish&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="220px" alt="Core Resonance" />
       </td>
     </tr>
   </table>
 </div>
 
+---
+
+### 🗝️ ARCHIVAL VAULT: THE TECH STACK
+
+```javascript
+const Operator = {
+  classification: "KAPTAN_KRRISH",
+  core_drivers: ["Python", "C++", "Java", "Golang"],
+  interface_layer: ["React", "TypeScript", "Vite", "Next.js"],
+  intelligence_matrix: ["TensorFlow", "PyTorch", "Natural Language Logic"],
+  fabric: ["AWS", "Docker", "Kubernetes", "CI/CD Orchestration"],
+  status: "INFINITELY_SCALING"
+};
+```
+
+---
+
+### 🛰️ UPLINK ESTABLISHED
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaptankrrish&theme=tokyonight" width="100%" alt="Profile Cards" />
-</div>
-
----
-
-<### 🛡️ TECHNOLOGY ARMORY
-
-| DISCIPLINE | STACK COMPONENTS |
-| :--- | :--- |
-| **CORE DEVELOPMENT** | `Python` `Java` `C++` `Node.js` |
-| **INTELLIGENT SYSTEMS** | `Machine Learning` `NLP` `Computer Vision` `Deep Analytics` |
-| **STRATEGIC FRONTEND** | `React.js` `Vite` `JavaScript (ES6+)` `Premium CSS/SCSS` |
-| **INFRASTRUCTURE** | `Cloud Architecture` `CI/CD Pipelines` `Git Version Control` |
-
----
-
-<### 📡 ESTABLISH CONNECTION
-
-<p align="left">
   <a href="mailto:kaptankrrish102030@gmail.com">
-    <img src="https://img.shields.io/badge/DIRECT_LINE-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SECURE%20CHANNEL-purple?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/kaptan-krrish-00a90731a">
-    <img src="https://img.shields.io/badge/EXECUTIVE_NETWORK-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NEURAL%20LINK-cyan?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
+</div>
 
 <br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=slice&color=00e1ff&height=40&section=footer" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&customColorList=2,00e1ff,8b5cf6&height=80&section=footer" />
 </div>
